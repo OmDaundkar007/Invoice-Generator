@@ -1,6 +1,6 @@
 # Akshata Traders - Invoice Generator
 
-A web-based **Invoice Generator** built for **Akshata Traders**.
+A lightweight web-based **Invoice Generator** built for **Akshata Traders**.
 This tool simplifies creating invoices by allowing users to select items from stock, auto-fill details, and generate a clean PDF invoice ready for printing or sharing.
 
 ---
@@ -42,6 +42,12 @@ This tool simplifies creating invoices by allowing users to select items from st
 3. Enter quantity & price → totals auto-calculate.
 4. Click **Generate Invoice** to preview.
 5. Download the invoice as a **PDF**.
+
+---
+
+## 📸 Screenshots
+
+![App Screenshot](images/ss1.png)
 
 
 ---
